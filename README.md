@@ -1,4 +1,4 @@
-# JavaScript-Exaples
+# JavaScript-Examples
 
 Digital Clock
 
