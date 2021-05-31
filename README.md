@@ -6,8 +6,6 @@
 
 # Body Mass Index
 
-![two](https://user-images.githubusercontent.com/71151015/120233588-dc14d800-c25e-11eb-9b6c-256b945be3ad.PNG)
+![one](https://user-images.githubusercontent.com/71151015/120234207-2b0f3d00-c260-11eb-830a-46286e021167.PNG)
 
-![one](https://user-images.githubusercontent.com/71151015/120233613-e9ca5d80-c25e-11eb-9855-3a0ab7016998.PNG)
-
-![three](https://user-images.githubusercontent.com/71151015/120233617-eb942100-c25e-11eb-87c8-ba7ce2a06adf.PNG)
+![two](https://user-images.githubusercontent.com/71151015/120234215-2d719700-c260-11eb-9963-f344a6d8b917.PNG)
