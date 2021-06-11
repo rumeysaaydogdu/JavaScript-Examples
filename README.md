@@ -20,6 +20,11 @@ I made a data extraction application with fetch api. Each time the retweet butto
 
 ![two](https://user-images.githubusercontent.com/71151015/120992236-144e7600-c78b-11eb-8ec7-5fe22641b076.PNG)
 
+#### Api Sources
+
+- https://type.fit/
+- https://type.fit/api/quotes
+
 ## To Do List
 
 ![one](https://user-images.githubusercontent.com/71151015/121363675-d5155600-c93f-11eb-9499-c027092b7eeb.PNG)
