@@ -46,3 +46,6 @@ I made a data extraction application with fetch api. Each time the retweet butto
 ## Tic Tac Toe Game
 jquery used
 
+![one](https://user-images.githubusercontent.com/71151015/124737210-674d5180-df20-11eb-98bc-7153263a261d.PNG)
+
+![two](https://user-images.githubusercontent.com/71151015/124737228-6a484200-df20-11eb-9cf7-25733dd87fd6.PNG)
