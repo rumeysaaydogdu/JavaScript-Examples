@@ -43,4 +43,6 @@ I made a data extraction application with fetch api. Each time the retweet butto
 - https://jsonplaceholder.typicode.com/users
 - https://jsonplaceholder.typicode.com/todos
 
+## Tic Tac Toe Game
+jquery used
 
