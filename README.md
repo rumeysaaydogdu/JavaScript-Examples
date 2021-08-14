@@ -49,3 +49,18 @@ jquery used
 ![one](https://user-images.githubusercontent.com/71151015/124737210-674d5180-df20-11eb-98bc-7153263a261d.PNG)
 
 ![two](https://user-images.githubusercontent.com/71151015/124737228-6a484200-df20-11eb-9cf7-25733dd87fd6.PNG)
+
+## Face Detection App
+jquery and facedetection library are used
+
+#### All faces are detected
+![hatirlasevgili](https://user-images.githubusercontent.com/71151015/129457234-56a5cd99-2d4f-4b28-8f5d-2293ccacce92.PNG)
+
+#### 3/5 faces are detected
+![thisisus](https://user-images.githubusercontent.com/71151015/129457243-3318c414-8b82-4b72-bfe6-8b01d1ed4545.PNG)
+
+#### 9/5 faces are detected
+![office](https://user-images.githubusercontent.com/71151015/129457249-a7cd875f-4ff1-46f0-8dbc-4ce89c334b26.PNG)
+
+#### 3/1 faces are detected
+![alice](https://user-images.githubusercontent.com/71151015/129457255-69cad06f-333b-4789-aef6-f0213614adc1.PNG)
