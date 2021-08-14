@@ -1,0 +1,23 @@
+body{
+    background-color: #c9dff1;
+}
+
+.container{
+    position: relative;  /* ÖNEMLİ bunu kaldırınca yüz bulan kare divleri fotoğrafın solunda sayfanın üstünde sıralanıyor*/
+    width: 1100px;
+    height: auto;  /* 600px genişliğindeki tüm fotoğraflarımızın orano bozulmaması için yüksekliği genişliğe bağlı olarak otomatik ayarlanıyor */
+    margin : 20px auto;  /* üstten 20px verdi sağ sol ortalandı*/
+    border: 10px solid #fff;
+    box-shadow: 0 5px 5px #000;
+}
+
+.image{
+    display: block; /*silince bir şey değişmedi. elementin kutu şeklinde alan kaplamasını sağlıyor. kullanıldığında element yeni bir satırdan başlıyor*/
+    width: 100%;
+    height: auto;
+}
+
+.face{
+    position: absolute; /* ÖNEMLİ bunu kaldırınca yüz bulan kare divleri alt alta sıralanıyor*/
+    border: 3px solid rgb(241, 12, 12);
+}
